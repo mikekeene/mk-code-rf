@@ -1,6 +1,6 @@
 # Code Refactor Starter Code
 ## Description
-Refactored starter code to improve accessibility and the code-base for the Horiseon website.  
+Refactored the starter code to enhance the Horiseon website. This was accomplished by improving the accessiblity along with the code-base for the website. 
 
 ## Website Link
 https://mikekeene.github.io/mk-code-rf/
